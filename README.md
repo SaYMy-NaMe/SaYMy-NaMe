@@ -1,7 +1,7 @@
 
 ## Introduction
 
-I'm **Ashrafur Rahman Chowdhury**, I am a Software Engineering developer from Bangladesh. I'm currently studying at *[SUST](https://www.sust.edu/)*.  
+This is **Ashrafur Rahman Chowdhury**, currently studying at Software Engineering, *[SUST](https://www.sust.edu/)*.  
 
 ## 💻 Open Source Work Stats
 
