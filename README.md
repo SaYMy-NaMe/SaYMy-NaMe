@@ -1,17 +1,13 @@
 
 ## Introduction
 
-This is **Ashrafur Rahman Chowdhury**, currently studying at Software Engineering, *[SUST](https://www.sust.edu/)*.  
+This is **Ashrafur Rahman Chowdhury**, 
+Software Engineering, IICT Undergraduate, *[SUST](https://www.sust.edu/)*, Sylhet.  
 
 ## 💻 Open Source Work Stats
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=SaYMy-NaMe&show_icons=true)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ashrafur035@gmail.com
+- How to reach me: ashrafur035@gmail.com
+- Social Link: https://www.linkedin.com/in/ashrafsustswe1970/
 
 
