@@ -28,7 +28,7 @@ public:
 ```
 ---
 
-- 👨‍💻 All of my projects are available at ([Click Here](https://github.com/SaYMy-NaMe?tab%253Drepositories))
+- 👨‍💻 All of my projects are available at ([Click Here](https://github.com/SaYMy-NaMe?tab=repositories))
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaYMy-NaMe&show_icons=true&locale=en&layout=compact" alt="SaYMy-NaMe" /></p>
 
