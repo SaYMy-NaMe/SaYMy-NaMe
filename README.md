@@ -1,13 +1,38 @@
+<h1 align="center">Ashrafur Rahman Chowdhury</h1>
+<h3 align="center">Software Engineering, IICT Undergraduate @SUST, Sylhet</h3>
 
-## Introduction
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaYMy-NaMe&label=Profile%20views&color=0e75b6&style=flat" alt="SaYMy-NaMe" /> </p>
 
-This is **Ashrafur Rahman Chowdhury**, 
-Software Engineering, IICT Undergraduate, *[SUST](https://www.sust.edu/)*, Sylhet.  
+#Welcome to My World! 
+---
 
-## 💻 Open Source Work Stats
-
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=SaYMy-NaMe&show_icons=true)
-- How to reach me: ashrafur035@gmail.com
-- Social Link: https://www.linkedin.com/in/ashrafsustswe1970/
+<img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="stonks" width="180" />
 
 
+```C++
+class SoftwareEngineer {
+public:
+    SoftwareEngineer() {
+        name = "Ashraf";
+        learning = {"C++", "Python", "JavaScript", "Java"};
+        Skill = {"Problem Solving", "Math", "Data Structure and Algorithm"}
+        learning = "Machine Learning";
+        Interest = "How Computer can do stuff?"; 
+    }
+
+    void contact() {
+        LinkedIn = https://www.linkedin.com/in/ashrafsustswe1970/;
+        mail = "ashrafur035@gmail.com";
+    }
+};   
+```
+---
+
+- 👨‍💻 All of my projects are available at ([SaYMy-NaMe Repositories](https://github.com/SaYMy-NaMe?tab%253Drepositories))
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaYMy-NaMe&show_icons=true&locale=en&layout=compact" alt="SaYMy-NaMe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaYMy-NaMe&" alt="SaYMy-NaMe" /></p>
+
+---
+#### Hope you can find something interesting here. Feel free to connect me with your world! Thanks
