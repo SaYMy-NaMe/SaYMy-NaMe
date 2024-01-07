@@ -17,18 +17,18 @@ public:
         learning = {"C++", "Python", "JavaScript", "Java"};
         Skill = {"Problem Solving", "Math", "Data Structure and Algorithm"}
         learning = "Machine Learning";
-        Interest = "How Computer can do stuff?"; 
+        Interest = "Large Language Model"; 
     }
 
     void contact() {
-        LinkedIn = https://www.linkedin.com/in/ashrafsustswe1970/;
+        LinkedIn = "https://www.linkedin.com/in/ashrafsustswe1970/";
         mail = "ashrafur035@gmail.com";
     }
 };   
 ```
 ---
 
-- 👨‍💻 All of my projects are available at ([SaYMy-NaMe Repositories](https://github.com/SaYMy-NaMe?tab%253Drepositories))
+- 👨‍💻 All of my projects are available at ([Click Here](https://github.com/SaYMy-NaMe?tab%253Drepositories))
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaYMy-NaMe&show_icons=true&locale=en&layout=compact" alt="SaYMy-NaMe" /></p>
 
