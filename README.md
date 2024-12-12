@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaYMy-NaMe&label=Profile%20views&color=0e75b6&style=flat" alt="SaYMy-NaMe" /> </p>
 
-#Welcome to My World! 
+#Step into my Space! 
 ---
 
 <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="stonks" width="180" />
@@ -14,15 +14,15 @@ class SoftwareEngineer {
 public:
     SoftwareEngineer() {
         name = "Ashraf";
-        learning = {"C++", "Python", "JavaScript", "Java"};
-        Skill = {"Problem Solving", "Math", "Data Structure and Algorithm"}
-        learning = "Machine Learning";
-        Interest = "Large Language Model"; 
+        languages = {"C", "C++", "Java", "C#", "JavaScript", "Python"};
+        skill = {"Problem Solving", "Math", "Data Structure and Algorithm", "Web Development", "Machine Learning", "Communication"}
+        web Technologies = {"React.js", "Angular", "C#.NET", "Node.js", "Express.js"}
+        database management system = {"MySql", "PostgresSQL", "SQL server", "MongoDB"}
     }
 
     void contact() {
         LinkedIn = "https://www.linkedin.com/in/ashrafsustswe1970/";
-        mail = "ashrafur035@gmail.com";
+        mail = "ashrafur.sust.swe70@gmail.com";
     }
 };   
 ```
@@ -35,4 +35,4 @@ public:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaYMy-NaMe&" alt="SaYMy-NaMe" /></p>
 
 ---
-#### Hope you can find something interesting here. Feel free to connect me with your world! Thanks
+#### Hope you can find something interesting here. Feel free to connect me! Thanks
