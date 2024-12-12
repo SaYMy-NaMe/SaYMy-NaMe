@@ -16,12 +16,12 @@ public:
         name = "Ashraf";
         languages = {"C", "C++", "Java", "C#", "JavaScript", "Python"};
         skill = {"Problem Solving", "Math", "Data Structure and Algorithm", "Web Development", "Machine Learning", "Communication"}
-        web Technologies = {"React.js", "Angular", "C#.NET", "Node.js", "Express.js"}
+        web technologies = {"React.js", "Angular", "C#.NET", "Node.js", "Express.js"}
         database management system = {"MySql", "PostgresSQL", "SQL server", "MongoDB"}
     }
 
     void contact() {
-        LinkedIn = "https://www.linkedin.com/in/ashrafsustswe1970/";
+        linkedIn = "https://www.linkedin.com/in/ashrafsustswe1970/";
         mail = "ashrafur.sust.swe70@gmail.com";
     }
 };   
