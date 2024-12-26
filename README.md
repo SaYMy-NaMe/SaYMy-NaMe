@@ -9,22 +9,20 @@
 <img align="left" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="stonks" width="180" />
 
 
-```C++
-class SoftwareEngineer {
-public:
-    SoftwareEngineer() {
-        name = "Ashraf";
-        languages = {"C", "C++", "Java", "C#", "JavaScript", "Python"};
-        skill = {"Problem Solving", "Math", "Data Structure and Algorithm", "Web Development", "Machine Learning", "Communication"}
-        web technologies = {"React.js", "Angular", "C#.NET", "Node.js", "Express.js"}
-        database management system = {"MySql", "PostgresSQL", "SQL server", "MongoDB"}
-    }
-
-    void contact() {
-        linkedIn = "https://www.linkedin.com/in/ashrafsustswe1970/";
-        mail = "ashrafur.sust.swe70@gmail.com";
-    }
-};   
+```C#
+public SoftwareEngineer()
+{
+    Name = "Ashraf";
+    Languages = new List<string> { "C", "C++", "Java", "C#", "JavaScript", "Python" };
+    Skills = new List<string> { "Problem Solving", "Math", "Data Structure and Algorithm", "Web Development", "Machine Learning", "Communication" };
+    WebTechnologies = new List<string> { "React.js", "Angular", "C#.NET", "Node.js", "Express.js" };
+    DatabaseManagementSystems = new List<string> { "MySql", "PostgresSQL", "SQL Server", "MongoDB" };
+}
+public void Contact()
+{
+    LinkedIn = "https://www.linkedin.com/in/ashrafsustswe1970/";
+    Mail = "ashrafur.sust.swe70@gmail.com";
+}
 ```
 ---
 
